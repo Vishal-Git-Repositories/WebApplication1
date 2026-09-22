@@ -7,7 +7,7 @@ namespace WebApplication1.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-//this is comment demo
+//this is comment demo 2
         public Home1Controller(ILogger<HomeController> logger)
         {
             _logger = logger;
